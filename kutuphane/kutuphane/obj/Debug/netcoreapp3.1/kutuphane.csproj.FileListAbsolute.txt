@@ -1,0 +1,17 @@
+C:\Users\acer\Desktop\gorselProgramlama-2\kutuphane\kutuphane\bin\Debug\netcoreapp3.1\kutuphane.exe
+C:\Users\acer\Desktop\gorselProgramlama-2\kutuphane\kutuphane\bin\Debug\netcoreapp3.1\kutuphane.deps.json
+C:\Users\acer\Desktop\gorselProgramlama-2\kutuphane\kutuphane\bin\Debug\netcoreapp3.1\kutuphane.runtimeconfig.json
+C:\Users\acer\Desktop\gorselProgramlama-2\kutuphane\kutuphane\bin\Debug\netcoreapp3.1\kutuphane.runtimeconfig.dev.json
+C:\Users\acer\Desktop\gorselProgramlama-2\kutuphane\kutuphane\bin\Debug\netcoreapp3.1\kutuphane.dll
+C:\Users\acer\Desktop\gorselProgramlama-2\kutuphane\kutuphane\bin\Debug\netcoreapp3.1\kutuphane.pdb
+C:\Users\acer\Desktop\gorselProgramlama-2\kutuphane\kutuphane\obj\Debug\netcoreapp3.1\kutuphane.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\gorselProgramlama-2\kutuphane\kutuphane\obj\Debug\netcoreapp3.1\kutuphane.Form1.resources
+C:\Users\acer\Desktop\gorselProgramlama-2\kutuphane\kutuphane\obj\Debug\netcoreapp3.1\kutuphane.Form2.resources
+C:\Users\acer\Desktop\gorselProgramlama-2\kutuphane\kutuphane\obj\Debug\netcoreapp3.1\kutuphane.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\gorselProgramlama-2\kutuphane\kutuphane\obj\Debug\netcoreapp3.1\kutuphane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\gorselProgramlama-2\kutuphane\kutuphane\obj\Debug\netcoreapp3.1\kutuphane.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\gorselProgramlama-2\kutuphane\kutuphane\obj\Debug\netcoreapp3.1\kutuphane.AssemblyInfo.cs
+C:\Users\acer\Desktop\gorselProgramlama-2\kutuphane\kutuphane\obj\Debug\netcoreapp3.1\kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\gorselProgramlama-2\kutuphane\kutuphane\obj\Debug\netcoreapp3.1\kutuphane.dll
+C:\Users\acer\Desktop\gorselProgramlama-2\kutuphane\kutuphane\obj\Debug\netcoreapp3.1\kutuphane.pdb
+C:\Users\acer\Desktop\gorselProgramlama-2\kutuphane\kutuphane\obj\Debug\netcoreapp3.1\kutuphane.genruntimeconfig.cache
